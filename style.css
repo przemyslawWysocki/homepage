@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: #ccc;
+    max-width: 700px;
+}
+
+.mainHeader {
+    color: tomato;
+}
+
+.sectionHeader {
+    color: white;
+}
+
+.dobroPowraca {
+    color: pink;
+    max-width: 150px;
+}
+
+.sexy {
+    background-color: #1460AA;
+    
+}
+
+footer img {
+    max-width: 300px;
+    float: right;
+}
