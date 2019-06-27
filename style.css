@@ -67,6 +67,7 @@ table {
     background: #2DC7FF;
     border-radius: 20px;
     padding: 20px;
+    text-align:center;
 }
 
 body {
@@ -78,6 +79,7 @@ body {
 
 .footer {
     width: 700px;
+    max-width:350px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -160,7 +162,7 @@ body {
     margin-bottom: 15px;
 }
 
-.notices__content-header {
+.notices__header {
     color: #EAD2AC;
     font-size: 16px;
     margin-bottom: 15px;
@@ -172,16 +174,14 @@ body {
    
 }
 
-.notices__content-headings {
+.notices__subheader {
   text-align:center;
 }
 
 
-.notices__content-paragraph {
+.notices__paragraph {
     color: #3A405A;
     margin-bottom:10px;
+    text-align:center;
 }
 
-.notices__content-list {
-    color: #3A405A;
-}
