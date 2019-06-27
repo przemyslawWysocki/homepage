@@ -1,13 +1,21 @@
 /* wyłączono: alert('siema');  */ 
 console.log('joł men');
-const fruits = 'papierosów';
-const wifil = 3;
+const fruits = ('owoce');
+const wifil = 33;
 
 
 
-console.log(`W pudełku nie było ${wifil} ${fruits}`);
+console.log(`Na stole leżały ${wifil} ${fruits}`);
 
-console.log (name);
-console.log (age);
-console.log (age);
+console.log (fruits);
+console.log (wifil); 
 
+
+const header = document.querySelector('.header__heading');
+
+console.log (header);
+
+const paragraph = document.querySelectorAll('p');
+console.log (paragraph);
+
+console.log (paragraph [0]);
