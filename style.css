@@ -67,7 +67,7 @@ table {
     background: #2DC7FF;
     border-radius: 20px;
     padding: 20px;
-    text-align:center;
+    text-align: center;
 }
 
 body {
@@ -79,7 +79,7 @@ body {
 
 .footer {
     width: 700px;
-    max-width:350px;
+    max-width: 350px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -166,22 +166,20 @@ body {
     color: #EAD2AC;
     font-size: 16px;
     margin-bottom: 15px;
-    background:#3A405A;;
-    padding:10px;
-    box-sizing:border-box;
-    text-align:center;
-    border-radius:20px;
-   
+    background: #3A405A;
+    ;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 20px;
 }
 
 .notices__subheader {
-  text-align:center;
+    text-align: center;
 }
-
 
 .notices__paragraph {
     color: #3A405A;
-    margin-bottom:10px;
-    text-align:center;
+    margin-bottom: 10px;
+    text-align: center;
 }
-
