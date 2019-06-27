@@ -11,11 +11,17 @@ console.log (fruits);
 console.log (wifil); 
 
 
-const header = document.querySelector('.header__heading');
-
-console.log (header);
-
 const paragraph = document.querySelectorAll('p');
+
 console.log (paragraph);
 
 console.log (paragraph [0]);
+
+const header = document.querySelector('.header__heading');
+
+console.log (header.innerHTML);
+
+header.innerHTML = 'Pozdro JS';
+
+console.log (header);
+
