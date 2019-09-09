@@ -39,9 +39,12 @@ table {
     box-shadow: 0px 0px 15px 15px rgba(98, 95, 99, 1);
 }
 
+.about h1 {
+    color:rgb(253 100 184); 
+}
+
 .about__header {
-    color: rgb(253 100 184) !important;
-    font-size: 32px;
+   font-size: 32px;
 }
 
 .about__link {
@@ -64,11 +67,12 @@ body {
     box-sizing: border-box;
     border-radius: 20px;
     padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+
 }
 
-.footer {}
+.footer {
+    padding-bottom:20px;
+}
 
 .footer__image {
     max-width: 200px;
@@ -129,8 +133,6 @@ main {
     min-width: 350px;
     max-width: 700px;
     margin: 0 auto;
-    box-sizing: border-box;
-    display: block;
 }
 
 .navigation {
